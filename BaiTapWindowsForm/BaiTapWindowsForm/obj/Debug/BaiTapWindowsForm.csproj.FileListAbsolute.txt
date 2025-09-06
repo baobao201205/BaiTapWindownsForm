@@ -1,0 +1,13 @@
+D:\BaiTapWindowsForm\BaiTapWindowsForm\bin\Debug\BaiTapWindowsForm.exe.config
+D:\BaiTapWindowsForm\BaiTapWindowsForm\bin\Debug\BaiTapWindowsForm.exe
+D:\BaiTapWindowsForm\BaiTapWindowsForm\bin\Debug\BaiTapWindowsForm.pdb
+D:\BaiTapWindowsForm\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.AssemblyReference.cache
+D:\BaiTapWindowsForm\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmBai1.resources
+D:\BaiTapWindowsForm\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmBai2.resources
+D:\BaiTapWindowsForm\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmBai3.resources
+D:\BaiTapWindowsForm\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmChinh.resources
+D:\BaiTapWindowsForm\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.Properties.Resources.resources
+D:\BaiTapWindowsForm\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.GenerateResource.cache
+D:\BaiTapWindowsForm\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.CoreCompileInputs.cache
+D:\BaiTapWindowsForm\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.exe
+D:\BaiTapWindowsForm\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.pdb
